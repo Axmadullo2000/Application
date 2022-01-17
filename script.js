@@ -56,7 +56,7 @@ function ShowMyDB(hidden) {
         console.log(personalNewsDB);
     }
 }
-
+ShowMyDB();
 console.log(mess);
 // console.log(personalNewsDB);
 let question;
